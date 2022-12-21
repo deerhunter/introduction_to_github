@@ -1,3 +1,5 @@
-Welcome to my GitHub profile!
+Welcome to my GitHub Profile!
 
-line 2 added
+line 3 added
+
+second changes
